@@ -1,0 +1,22 @@
+students_db = {
+    1: {"id": 1, "name": "Aarav Sharma", "dept": "Computer Science", "subjects": ["DSA", "DBMS", "OS", "Computer Networks", "AI"]},
+    2: {"id": 2, "name": "Diya Patel", "dept": "Information Technology", "subjects": ["Web Dev", "DBMS", "Cloud", "Cyber Security", "Python"]},
+    3: {"id": 3, "name": "Rohan Mehta", "dept": "Computer Science", "subjects": ["DSA", "Operating Systems", "Java", "Machine Learning", "Math"]},
+    4: {"id": 4, "name": "Ananya Iyer", "dept": "Electronics", "subjects": ["Digital Electronics", "Signals", "Embedded Systems", "Microprocessors", "Math"]},
+    5: {"id": 5, "name": "Kabir Singh", "dept": "Mechanical", "subjects": ["Thermodynamics", "Fluid Mechanics", "CAD", "Manufacturing", "Math"]},
+    6: {"id": 6, "name": "Sneha Reddy", "dept": "Information Technology", "subjects": ["Python", "DBMS", "Cloud Computing", "Data Mining", "Statistics"]},
+    7: {"id": 7, "name": "Aditya Verma", "dept": "Computer Science", "subjects": ["DSA", "Algorithms", "Operating Systems", "Compiler Design", "AI"]},
+    8: {"id": 8, "name": "Pooja Nair", "dept": "Electronics", "subjects": ["VLSI", "Signals", "Communication", "Microcontrollers", "Math"]},
+    9: {"id": 9, "name": "Rahul Khanna", "dept": "Information Technology", "subjects": ["Web Dev", "Cyber Security", "Networking", "Python", "Cloud"]},
+    10: {"id": 10, "name": "Neha Gupta", "dept": "Computer Science", "subjects": ["Machine Learning", "Deep Learning", "Statistics", "Python", "Data Mining"]},
+    11: {"id": 11, "name": "Vikram Joshi", "dept": "Mechanical", "subjects": ["Mechanics", "Thermodynamics", "Fluid Mechanics", "Manufacturing", "Math"]},
+    12: {"id": 12, "name": "Kavya Pillai", "dept": "Information Technology", "subjects": ["DBMS", "Web Dev", "Cloud", "DevOps", "Python"]},
+    13: {"id": 13, "name": "Arjun Desai", "dept": "Computer Science", "subjects": ["DSA", "Operating Systems", "Networks", "Distributed Systems", "AI"]},
+    14: {"id": 14, "name": "Meera Kapoor", "dept": "Electronics", "subjects": ["Digital Systems", "Signals", "Communication", "Embedded Systems", "Math"]},
+    15: {"id": 15, "name": "Nikhil Bansal", "dept": "Computer Science", "subjects": ["Algorithms", "Compiler Design", "Operating Systems", "AI", "Math"]},
+    16: {"id": 16, "name": "Ishita Chatterjee", "dept": "Information Technology", "subjects": ["Cyber Security", "Networking", "Python", "Cloud", "DBMS"]},
+    17: {"id": 17, "name": "Karan Malhotra", "dept": "Mechanical", "subjects": ["Thermodynamics", "Mechanics", "Manufacturing", "CAD", "Math"]},
+    18: {"id": 18, "name": "Ritika Sen", "dept": "Computer Science", "subjects": ["Machine Learning", "Deep Learning", "Python", "Statistics", "AI"]},
+    19: {"id": 19, "name": "Sahil Agarwal", "dept": "Information Technology", "subjects": ["Web Dev", "DBMS", "Cloud", "DevOps", "Networking"]},
+    20: {"id": 20, "name": "Tanvi Kulkarni", "dept": "Computer Science", "subjects": ["DSA", "Operating Systems", "Networks", "AI", "Math"]}
+}
